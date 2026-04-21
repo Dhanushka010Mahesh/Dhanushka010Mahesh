@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Sliate And Moratuwa campuses**
 
-- 📫 How to reach me **Asus515dhanushka@gmail.com**
+- 📫 How to reach me **dhanushka.jayarathna01@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
