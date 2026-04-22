@@ -1,43 +1,89 @@
-<h1 align="center">Welcome Guys🖤🤍I'M : 🥰Dhanushka Mahesh😍</h1>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<div align="center">
 
+# 👋 Hi, I'm Dhanushka Mahesh
 
-<h3 align="center">I am undergraduate student in (....) campus</h3>
+### Full-Stack Developer · Undergraduate · Internship @ Tritcal International Pvt Ltd
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhanushka010mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushka010mahesh" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+Nest.js;Final+Year+Undergrad+%40+SLIATE+%26+Moratuwa)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+!+I'm+a+Dhanushka+!!!;I'm+a+learning+developer...;I'm+20years+old;And+I'm+a+proud+GitHub+user...)](https://git.io/typing-svg)
-
-
-
-### My Details
-
----
-
-<div>
-
-<h4>My School</h4>
-
-<ul type="circle" ><li>Idamegama Central Collage</li><li>Nugawela Central Collage</li></ul>
-
-<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">I Am Form Kandy</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-
-
+<img src="https://komarev.com/ghpvc/?username=dhanushka010mahesh&label=Profile+Views&color=00b4d8&style=flat-square" alt="Profile Views" />
 
 </div>
 
-- 🌱 I’m currently learning **Sliate And Moratuwa campuses**
+---
 
-- 📫 How to reach me **dhanushka.jayarathna01@gmail.com**
+## 🧑‍💻 About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- 🎓 **Final Year Undergraduate** at **SLIATE** & **University of Moratuwa**
+- 💼 **7 Months Internship** at **Tritcal International Pvt Ltd** — working on full-stack enterprise applications
+- 🌍 Based in **Kandy, Sri Lanka**
+- 📬 Reach me at **dhanushka.jayarathna01@gmail.com**
+- 🚀 Passionate about building scalable, clean, and production-ready software
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://fb.com/dhanushka mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhanushka mahesh" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="right">Languages and Tools:</h3>
-<p align="right"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Other
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushka010mahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushka010mahesh&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dhanushka010mahesh&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/dhanushkamahesh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushka.jayarathna01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushka010mahesh)
+
+</div>
+
+---
+
+<div align="center">
+  <i>"Code is not just syntax — it's a craft."</i>
+</div>
